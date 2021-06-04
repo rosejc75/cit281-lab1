@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--   1 rosecarroll  staff    0 Apr  9 14:29 lab-01-folders.txt
+drwxr-xr-x  13 rosecarroll  staff  416 Apr  9 14:02 p1
+drwxr-xr-x   2 rosecarroll  staff   64 Apr  8 10:37 p2
+drwxr-xr-x   2 rosecarroll  staff   64 Apr  8 10:37 p3
+drwxr-xr-x   2 rosecarroll  staff   64 Apr  8 10:37 p4
+drwxr-xr-x   2 rosecarroll  staff   64 Apr  8 10:37 p5
+drwxr-xr-x   2 rosecarroll  staff   64 Apr  8 10:38 p6
+drwxr-xr-x   2 rosecarroll  staff   64 Apr  8 10:38 p7
+drwxr-xr-x   2 rosecarroll  staff   64 Apr  8 10:38 p8
