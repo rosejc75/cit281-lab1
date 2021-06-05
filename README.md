@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Rose's Lab 1
 
-You can use the [editor on GitHub](https://github.com/rosejc75/cit281-lab1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In this lab I installed all of the requiremented softwares needed for this course. This included GitHub, Postman, VS Code.
+After these were installed, I praticed using commands in my terminal. I learned how to create a folder using the "mkdir" command. I also learned that the "ls" command will list the contents of a folder for you. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Keyboard Shortcuts
 
-### Markdown
+Keyboard shortcuts make life much easier for a coder and so in this lab we pratciced using many shortcuts that I had never tried before. I learned how to make my cursor jump around where I need it to in VS Code.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rosejc75/cit281-lab1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
